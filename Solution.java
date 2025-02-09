@@ -18,7 +18,7 @@ class Node {
     }
 }
 
-public class pp5 {
+public class Solution {
     public static Node flatten(Node l1) {
         if (l1 == null) {
             return l1;
